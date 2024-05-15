@@ -33,6 +33,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamucaVr&theme=dracula&show_icons=true" />
 </a>
 
+## Minhas Habilidades
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SamucaVr&theme=dracula)
+
 ## Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-vieira-4528a41b3/)
