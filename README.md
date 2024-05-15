@@ -33,7 +33,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamucaVr&theme=dracula&show_icons=true" />
 </a>
 
-## Minhas Habilidades
+## Distribuição de Linguagens de Programação
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SamucaVr&theme=dracula)
 
